@@ -1,0 +1,23 @@
+body{
+    margin: 50px;    /*width*/
+    padding: 5px;  /*height*/
+    background-color: #FDE9EA;
+    color: #EE7C99; /*colour of text*/
+    text-align: center;
+    height: 50vh;
+}
+
+h1{
+    font-size: 40px;
+}
+
+input{
+    border-radius: 1px;
+width: 75px;
+height: 50px;
+font-size: 30px;
+margin: 5px; /*seperates the numbers horizontally*/
+}
+.btn:hover{
+    background-color: #FDE2ED;
+}
